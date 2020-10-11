@@ -1,0 +1,4 @@
+bot:
+  name: ${bot_name}
+  token: ${bot_token}
+  url: https://rezka.ag/index.php?do=search&subaction=search&q=
